@@ -1,4 +1,4 @@
-package base;
+package collection;
 
 public class TwoArr {
     public static void main(String[] args) {
